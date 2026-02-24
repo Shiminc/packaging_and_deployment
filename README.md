@@ -1,5 +1,6 @@
 
-This repo I think needs merging into btretrodetect, then deleting.
+I am putting it here a package and deployment I have done while working in the University of Sheffield. I am charged with reorganised the code and make it into a package, which is published here https://pypi.org/project/retrodetect/. Concept belongs to the researcher, and in view of the potential changes in the future, I am just duplicating the code here, rather than forking it. https://pypi.org/project/retrodetect/
+
 
 # Bee retroreflection detector
 
